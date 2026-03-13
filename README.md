@@ -11,6 +11,8 @@ Simple HTML Playground to write and run HTML, CSS, and JavaScript directly in th
 ## Screenshot
 <p align="center">
 <img width="2548" height="1464" alt="image" src="https://github.com/user-attachments/assets/d2b66c7d-2669-4cbd-81cb-a54d0936bc34" />
+<img width="2548" height="1464" alt="image" src="https://github.com/user-attachments/assets/ba6f0e49-9469-4a8a-8c6e-e6f307b010c1" />
+
 </p>
 
 <p align="center">
