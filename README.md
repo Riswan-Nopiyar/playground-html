@@ -16,6 +16,7 @@ Simple HTML Playground to write and run HTML, CSS, and JavaScript directly in th
 <p align="center">
 <a href="https://riswan-nopiyar.github.io/playground-html">Demo</a>
 </p>
+
 ## Usage
 Open the project in your browser and start writing code.
 
