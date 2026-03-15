@@ -1,4 +1,4 @@
-# playground-html
+# playground html
 
 Simple HTML Playground to write and run HTML, CSS, and JavaScript directly in the browser.
 
